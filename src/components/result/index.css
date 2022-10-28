@@ -1,0 +1,11 @@
+.resultsContainer {
+    background-image: url("https://c1.wallpaperflare.com/preview/91/277/304/result-balance-sheet-follow-success.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 50px;
+}
+
+.resultCont {
+    width: 60% !important;
+}

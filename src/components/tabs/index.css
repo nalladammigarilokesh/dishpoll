@@ -1,0 +1,45 @@
+.tabs-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("http://sinikini.com/web/wp-content/uploads/2019/07/SK-Sea-Food.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.tabs-container .nav {
+    display: flex;
+    justify-content: center;
+
+}
+
+.tabs-container .nav-item {
+    border: 1px solid black;
+    margin: 20px;
+    padding: 10px;
+    border-radius: 50%;
+}
+
+nav {
+    width: 60%;
+    background-color: cornsilk;
+    border-radius: 50%;
+}
+
+.btn-border {
+    border-radius: 50% !important;
+}
+
+.selected-dish {
+    background-color: cornsilk;
+    height: 100vh;
+}
+
+.table {
+    background-color: azure !important;
+}
+
+.cont-dish {
+    width: 50% !important;
+}

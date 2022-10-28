@@ -1,0 +1,42 @@
+.dishes-container .card {
+    width: 360px;
+    height: auto;
+    margin: 10px;
+    padding: 0;
+}
+
+.dishes-container .card-title {
+    font-size: 18px;
+    text-align: center;
+}
+
+.dishes-container .list-group-item {
+    cursor: pointer;
+    background-color: cornsilk;
+    font-size: small;
+    border-radius: 50% !important;
+}
+
+.list-group {
+    flex-direction: row !important;
+    flex-wrap: nowrap;
+    justify-content: space-between !important;
+}
+
+.dishes-whole-container {
+    background-image: url("https://p1.pxfuel.com/preview/535/135/735/gourmet-restaurant-western.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn-cstm {
+    border-radius: 50% !important;
+    background-color: green !important;
+    font-size: 24px !important;
+    font-family: fantasy !important;
+    color: white !important;
+}
+
+.sticky-top {
+    background-color: cornsilk !important;
+}
